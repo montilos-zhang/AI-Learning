@@ -38,7 +38,7 @@
 
 * Google在2016年2月份开源TensorFlow Serving，这个组件可以将TensorFlow训练好的模型导出并部署到可以对外提供预测服务的Restful接口
 
-[TensorFlow Serving架构](!https://www.packtpub.com/graphics/9781786468574/graphics/image_06_002.jpg)
+[TensorFlow Serving架构](https://www.packtpub.com/graphics/9781786468574/graphics/image_06_002.jpg)
 
 * Google的另一大利器就是Tensorboard各种可视化。标量、图片、音频、直方图、计算图。Events Dashboard还可以持续监控运行时的关键指标。loss、学习速率、准确率等
 
